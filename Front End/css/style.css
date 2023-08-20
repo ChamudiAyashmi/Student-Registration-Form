@@ -10,8 +10,6 @@ body{
     align-items: center;
     min-height: 100vh;
     background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(21,94,209,1) 0%, rgba(152,22,139,1) 85%, rgba(15,5,36,1) 100%, rgba(175,9,127,1) 100%);
-   // background: linear-gradient(90deg, rgba(107,107,107,1) 0%, rgba(28,124,200,1) 0%, rgba(16,24,28,1) 100%);
-   
 }
 
 .wrapper{
