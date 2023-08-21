@@ -18,7 +18,7 @@ body{
     background: transparent;
     border: 2px solid rgba(255, 255, 255, .2);
     backdrop-filter: blur(40px);
-    box-shadow: 0 0 10px rgba(0, 0, 0, .5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, .9);
     color: white;
     border-radius: 20px;
     padding: 30px 40px;
